@@ -31,7 +31,10 @@ int main()
           if(b==0)
           printf("nie mozna dzielic przez zero");
           break;
-
+      case 'p':
+         wynik=sqrt(b);
+         printf("Wynik: %i",wynik);
+         break;
     default:
         break;
     }
