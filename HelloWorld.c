@@ -31,7 +31,10 @@ int main()
           if(b==0)
           printf("nie mozna dzielic przez zero");
           break;
-
+    case '^':
+          wynik = pow(a,b);
+          printf("Wynik: %i", wynik);
+          break;
     default:
         break;
     }
