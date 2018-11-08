@@ -31,6 +31,10 @@ int main()
         wynik=a-b;
             printf("Wynik: %i",wynik);
             break;
+     case 'p':
+         wynik=sqrt(b);
+         printf("Wynik: %i",wynik);
+         break;
     default:
         break;
     }
