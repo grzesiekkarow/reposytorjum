@@ -7,7 +7,7 @@
 ##### Projekty, którymi aktualnie się zajmuje:
 1. projekt 1
 2. projekt 2
-##### Chciałbym wam pokazać listę moich osiągnięć:
+##### Oto lista moich osiągnięć:
 1. Kalkulator w języku C
 2. osiągnięcie 2
 3. osiągnięcie 3
