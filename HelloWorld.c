@@ -21,6 +21,7 @@ int main()
     default:
         break;
     }
+    printf("Wynik: %i", wynik);
     getchar();
     return 0;
 }
