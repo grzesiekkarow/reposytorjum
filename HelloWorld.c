@@ -13,12 +13,16 @@ int main()
     scanf("%c",&c);
     switch(c)
     {
-        case '-':
+      case '-':
         wynik=a-b;
             printf("Wynik: %i",wynik);
             break;
-    case '+':
+      case '+':
         wynik=a+b;
+            printf("Wynik: %i", wynik);
+        break;
+       case '*':
+        wynik=a*b;
             printf("Wynik: %i", wynik);
         break;
     case '/':
@@ -27,6 +31,7 @@ int main()
           if(b==0)
           printf("nie mozna dzielic przez zero");
           break;
+
     default:
         break;
     }
