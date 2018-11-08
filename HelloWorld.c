@@ -27,6 +27,10 @@ int main()
             if(b==0)
                 printf("nie mozna dzielic przez zero");
             break;
+     case '-':
+        wynik=a-b;
+            printf("Wynik: %i",wynik);
+            break;
     default:
         break;
     }
