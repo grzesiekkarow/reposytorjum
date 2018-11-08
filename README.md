@@ -14,8 +14,7 @@
 4. osiągnięcie 4
 5. osiągnięcie 5
 
-##### Chcesz więcej informacji ? Odwiedź moją stronę :
-[mojastrona.cos](https://mojastrona.cos)
+##### Chcesz więcej informacji ? Odwiedź moją stronę : <br/> [mojastrona.cos](https://mojastrona.cos)
 
 ##### Masz cos ciekawego do powiedzenia ? Chcesz coś zaproponować ? <br/> Napisz do mnie mail'a: mail@example.com
 
