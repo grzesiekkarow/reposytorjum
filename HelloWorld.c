@@ -13,12 +13,16 @@ int main()
     scanf("%c",&c);
     switch(c)
     {
-        case '-':
+      case '-':
         wynik=a-b;
             printf("Wynik: %i",wynik);
             break;
-    case '+':
+      case '+':
         wynik=a+b;
+            printf("Wynik: %i", wynik);
+        break;
+       case '*':
+        wynik=a*b;
             printf("Wynik: %i", wynik);
         break;
     case '/':
