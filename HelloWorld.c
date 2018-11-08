@@ -5,6 +5,7 @@ int main()
     int a, b;
     int wynik;
     char c;
+    int i;
     printf(" Podaj dwie liczby: ");
     scanf("%i", &a);
     scanf("%i", &b);
@@ -33,6 +34,10 @@ int main()
             break;
      case 'p':
          wynik=sqrt(b);
+         printf("Wynik: %i",wynik);
+         break;
+    case '^':
+         wynik=pow(a,b);
          printf("Wynik: %i",wynik);
          break;
     default:
