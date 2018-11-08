@@ -8,7 +8,7 @@
 1. projekt 1
 2. projekt 2
 ##### Chciałbym wam pokazać listę moich osiągnięć:
-1. osiągnięcie 1
+1. kalkulator w języku C
 2. osiągnięcie 2
 3. osiągnięcie 3
 4. osiągnięcie 4
