@@ -15,6 +15,9 @@ int main()
     case '+':
         wynik=a+b;
         break;
+    case '*':
+        wynik=a*b;
+        break;
     default:
         break;
     }
