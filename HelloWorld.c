@@ -18,6 +18,12 @@ int main()
             printf("Wynik: %i",wynik);
             break;
 
+
+    case '+':
+        wynik=a+b;
+            printf("Wynik: %i", wynik);
+        break;
+
     default:
         break;
     }
