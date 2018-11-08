@@ -5,7 +5,6 @@ int main()
     int a, b;
     int wynik;
     char c;
-    int i;
     printf(" Podaj dwie liczby: ");
     scanf("%i", &a);
     scanf("%i", &b);
