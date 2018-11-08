@@ -17,28 +17,6 @@ int main()
         wynik=a+b;
             printf("Wynik: %i", wynik);
         break;
-    case '*':
-        wynik=a*b;
-            printf("Wynik: %i", wynik);
-        break;
-    case '/':
-            wynik=a/b;
-            printf("Wynik: %i",wynik);
-            if(b==0)
-                printf("nie mozna dzielic przez zero");
-            break;
-     case '-':
-        wynik=a-b;
-            printf("Wynik: %i",wynik);
-            break;
-     case 'p':
-         wynik=sqrt(b);
-         printf("Wynik: %i",wynik);
-         break;
-    case '^':
-         wynik=pow(a,b);
-         printf("Wynik: %i",wynik);
-         break;
     default:
         break;
     }
